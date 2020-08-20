@@ -4,6 +4,8 @@ Created on Tue Aug 18 17:35:10 2020
 
 @author: nicol
 """
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
